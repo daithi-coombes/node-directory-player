@@ -1,1 +1,14 @@
-/* CSS declarations go here */
+html, body{
+    height: 100%;
+}
+.container-fluid{
+    height: 100%;
+}
+#boxTop{
+    min-height: 80px;
+    height: 20%;
+}
+#boxBottom{
+    min-height: 120px;
+    height: 80%;
+}
