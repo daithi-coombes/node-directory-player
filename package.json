@@ -32,7 +32,8 @@
         "gui"
     ],
     "dependencies": {
-        "node-gyp": "*"
+        "node-gyp": "*",
+        "player": "~0.5.0"
     },
     "devDependencies": {
     },
